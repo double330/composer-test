@@ -1,0 +1,19 @@
+{
+    "name": "akon/composer-test",
+    "description": "composer-test",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Akon\\ComposerTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Double330",
+            "email": "659154732@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
