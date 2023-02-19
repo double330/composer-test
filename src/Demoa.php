@@ -6,6 +6,6 @@ class Demoa
 {
     public static function hi()
     {
-        return "hello world";
+        return "hello world!";
     }
 }
